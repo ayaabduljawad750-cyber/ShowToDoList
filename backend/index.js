@@ -8,7 +8,7 @@ app.use(cors());
 // Connect to MongoDB
 mongoose
   .connect(
-    "mongodb+srv://ayaabduljawad:mongopassword@cluster0.44npmwz.mongodb.net/toDoApp",
+    "mongodb://localhost:27017/toDoApp",
   )
   .then(() => console.log("MongoDB connected"))
   .catch((err) => console.log(err));
