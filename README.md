@@ -1,4 +1,4 @@
-📝 MEAN Stack To-Do List App
+📝 Basic MEAN Stack To-Do List Display
 
 A simple web application built using the MEAN Stack (MongoDB, Express.js, Angular, Node.js) that displays a list of to-do items.
 
